@@ -1,0 +1,20 @@
+<html>
+<head><title>The Input</title></head>
+<body bgcolor = "black">
+<script>
+
+	var portOutput = 5122
+	var hostOutput = '<>'
+	var net = require("net");
+	var socket = net.connect({port:portInput,host:hostInput}, function(){
+			socket.write(' ');
+			});
+	//socket.setEncoding('utf8');
+	socket.on('data', function(data){
+			document.write(data.toString());
+			socket.destroy();
+		});
+	socket.on(' ', function(){ console.log(' ');});
+</script>
+</body>
+</html>

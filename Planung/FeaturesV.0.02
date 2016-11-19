@@ -1,0 +1,34 @@
+1:Steuerung Funksteckdosen & Elektrik
+
+($)2:Internet: Suche, Analyse
+
+$3:Sprachausgabe & evtl Visualisierung
+
+₩4:Dokumente bearbeiten/anzeigen
+
+₩5:Netzwerk-kontrolle
+
+₩6:Programme starten usw...
+
+¥7:Authentifikation 
+    7.1:USB
+    7.2:NFC
+    7.3:HTML Login
+
+¥8:Informationen zum status des Hauses (Fester/T�r offen/geschlossen)
+
+¥9:Erweiterungen 
+	9.1:Farmbot
+	9.2:Heitzungsregler
+	9.3:Zimmertemperatur 	m�gliche zusammenarbeit mit 9.2
+	9.4:Kaffemaschine etc
+	9.5:Smart Mirror
+	9.6:EKochbuch
+	9.7:Elektronischer Butler(bar)
+	
+	
+	
+	
+	$ erledigt
+	¥ noch zu tun
+	₩ in frage gestellt
